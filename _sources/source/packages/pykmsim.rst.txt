@@ -1,7 +1,7 @@
-package\_name package
-=====================
+pykmsim package
+===============
 
-.. automodule:: package_name
+.. automodule:: pykmsim
    :members:
    :undoc-members:
    :show-inheritance:
@@ -12,4 +12,4 @@ Submodules
 .. toctree::
    :maxdepth: 4
 
-   package_name.module
+   pykmsim.module

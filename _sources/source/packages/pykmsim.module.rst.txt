@@ -1,0 +1,7 @@
+pykmsim.module module
+=====================
+
+.. automodule:: pykmsim.module
+   :members:
+   :undoc-members:
+   :show-inheritance:
